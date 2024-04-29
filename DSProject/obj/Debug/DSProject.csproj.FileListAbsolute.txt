@@ -1,0 +1,7 @@
+C:\Programming\DSAlgorithems\bin\Debug\DSAlgorithems.exe.config
+C:\Programming\DSAlgorithems\bin\Debug\DSAlgorithems.exe
+C:\Programming\DSAlgorithems\bin\Debug\DSAlgorithems.pdb
+C:\Programming\DSAlgorithems\obj\Debug\DSProject.csproj.AssemblyReference.cache
+C:\Programming\DSAlgorithems\obj\Debug\DSProject.csproj.CoreCompileInputs.cache
+C:\Programming\DSAlgorithems\obj\Debug\DSAlgorithems.exe
+C:\Programming\DSAlgorithems\obj\Debug\DSAlgorithems.pdb
